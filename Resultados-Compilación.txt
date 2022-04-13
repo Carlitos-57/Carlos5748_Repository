@@ -1,0 +1,4 @@
+﻿Operación Recompilar iniciada...
+1>------ Operación Recompilar todo iniciada: proyecto: GoodSystemServices, configuración: Debug Any CPU ------
+1>  GoodSystemServices -> C:\Users\eclew\source\repos\GoodSystemServices\bin\GoodSystemServices.dll
+========== Recompilar todo: 1 correctos, 0 incorrectos, 0 omitidos ==========
